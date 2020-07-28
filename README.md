@@ -1,2 +1,3 @@
 # SalaryPredictor
-This project predicts the salary for a data science role in three states of US
+- This project is for the prediction of salary for data science roles in three states of US.
+- Code with Documentation can be found [here]()
